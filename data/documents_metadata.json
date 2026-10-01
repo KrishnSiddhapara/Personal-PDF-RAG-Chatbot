@@ -1,0 +1,32 @@
+{
+  "be891f85c62dee4a": {
+    "document_id": "be891f85c62dee4a",
+    "filename": "The_Ultimate_Python_Handbook.pdf",
+    "status": "processed",
+    "upload_time": "2026-10-01T13:16:03.198707",
+    "page_count": 60,
+    "chunk_count": 107,
+    "file_size": 1728887,
+    "error_message": null
+  },
+  "f40f9eab2d39f8ad": {
+    "document_id": "f40f9eab2d39f8ad",
+    "filename": "SS_Chapter-1_Notes.pdf",
+    "status": "processed",
+    "upload_time": "2026-10-01T13:21:28.601780",
+    "page_count": 18,
+    "chunk_count": 50,
+    "file_size": 731984,
+    "error_message": null
+  },
+  "449ecb3c4c387e9c": {
+    "document_id": "449ecb3c4c387e9c",
+    "filename": "company_policy.pdf",
+    "status": "processed",
+    "upload_time": "2026-10-01T13:36:09.483976",
+    "page_count": 1,
+    "chunk_count": 1,
+    "file_size": 910,
+    "error_message": null
+  }
+}
